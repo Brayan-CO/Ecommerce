@@ -1,5 +1,4 @@
 # Ecommerce
 
-#team:
-Brayan Cantillo Orozco
-Camilo Navarro Navarro
+Team:
+Brayan Cantillo Orozco, Camilo Navarro Navarro
